@@ -1,6 +1,7 @@
 package org.cucumber.StepDefs.Toodle;
 
 import com.microsoft.playwright.Page;
+import com.microsoft.playwright.options.LoadState;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -23,11 +24,12 @@ public class ToodleStepDef {
 
             page.fill("//input[@name='username']", "jcandia");
             page.fill("//input[@name='password']", "sesame");
-
+            page.waitForLoadState(LoadState.NETWORKIDLE);
     }
 
     @Then("The login page will be displayed")
     public void theLoginPageWillBeDisplayed() {
+        page.click("//button[@class='login-button btn btn-primary w-100']");
 
     }
 }
