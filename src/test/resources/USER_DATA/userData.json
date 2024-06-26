@@ -1,0 +1,169 @@
+{
+  "USER": {
+    "HR 1": {
+      "userId": "fc3b3f60",
+      "id": "ss-galindo@gmail.com",
+      "name": "adalid galindo",
+      "email": "galindo@gmail.com",
+      "role": "HR",
+      "roleId": "16",
+      "PASSWORD": "Password1!"
+    },
+    "HR 2": {
+      "userId": "woTRARo2",
+      "id": "ss-gamaliel@gmail.com",
+      "name": "Gamaliel Sierraalta",
+      "email": "gamaliel@gmail.com",
+      "role": "HR",
+      "roleId": "16",
+      "PASSWORD": "Password1!"
+    },
+    "EMPLOYEE 1": {
+      "userId": "GZy8oGue",
+      "id": "ss-ivan@gmail.com",
+      "name": "ivan Vargas",
+      "email": "ivan@gmail.com",
+      "role": "EMPLOYEE",
+      "roleId": "25",
+      "PASSWORD": "Password1!"
+    },
+    "HR 3": {
+      "userId": "74043c42",
+      "id": "ss-marcelo@gmail.com",
+      "name": "Marcelo Ramos",
+      "email": "marcelo@gmail.com",
+      "role": "HR",
+      "roleId": "16",
+      "PASSWORD": "Password1!"
+    },
+    "HR 4": {
+      "userId": "5BbTBkS0",
+      "id": "ss-martin@gmail.com",
+      "name": "Martin Torrico",
+      "email": "martin@gmail.com",
+      "role": "HR",
+      "roleId": "16",
+      "PASSWORD": "Password1!"
+    },
+    "HR 5": {
+      "userId": "4810bba8",
+      "id": "ss-nibet@gmail.com",
+      "name": "Nibet Laime",
+      "email": "nibet@gmail.com",
+      "role": "HR",
+      "PASSWORD": "Password1!"
+    },
+    "HR 6": {
+      "userId": "e870fa79",
+      "id": "ss-ricaldi@gmail.com",
+      "name": "juan ricaldi",
+      "email": "ricaldi@gmail.com",
+      "role": "HR",
+      "PASSWORD": "Password1!"
+    },
+    "HR 7": {
+      "userId": "87f82513",
+      "id": "ss-max@gmail.com",
+      "name": "Max Jimenez",
+      "email": "max@gmail.com",
+      "role": "HR",
+      "PASSWORD": "Password1!"
+    },
+    "HR 8": {
+      "userId": "93ccf9f1",
+      "id": "ss-Nicaela@gmail.com",
+      "name": "Nicaela Onofre",
+      "email": "nicaela@gmail.com",
+      "role": "HR",
+      "PASSWORD": "Password1!"
+    },
+    "HR 9": {
+      "userId": "1bcb1e45",
+      "id": "ss-jefferson@gmail.com",
+      "name": "Jefferson Lee",
+      "email": "jefferson@gmail.com",
+      "role": "HR",
+      "PASSWORD": "Password1!"
+    },
+    "HR 10": {
+      "userId": "28debc07",
+      "id": "ss-rommel@gmail.com",
+      "name": "Rommel Loayza",
+      "email": "rommel@gmail.com",
+      "role": "HR",
+      "PASSWORD": "Password1!"
+    },
+    "HR 11": {
+      "userId": "5e91b0c8",
+      "id": "ss-rolando@gmail.com",
+      "name": "Rolando Linares",
+      "email": "rolando@gmail.com",
+      "role": "HR",
+      "PASSWORD": "Password1!"
+    },
+    "HR 12": {
+      "userId": "694b3980",
+      "id": "ss-cosme@gmail.com",
+      "name": "Cosme Fulanito",
+      "email": "cosme@gmail.com",
+      "role": "HR",
+      "PASSWORD": "Password1!"
+    },
+    "HR 13": {
+      "userId": "7598a4cc",
+      "id": "ss-adolfo@gmail.com",
+      "name": "Adolfo Vargas",
+      "email": "adolfo@gmail.com",
+      "role": "HR",
+      "PASSWORD": "Password1!"
+    },
+    "HR 14": {
+      "userId": "e11b6b38",
+      "id": "ss-homero@gmail.com",
+      "name": "Homero Simpson",
+      "email": "homero@gmail.com",
+      "role": "HR",
+      "PASSWORD": "Password1!"
+    },
+    "HR 15": {
+      "userId": "e7ba57d0",
+      "id": "ss-marge@gmail.com",
+      "name": "Marge Simpson",
+      "email": "marge@gmail.com",
+      "role": "HR",
+      "PASSWORD": "Password1!"
+    },
+    "HR 16": {
+      "userId": "f1f27ed6",
+      "id": "ss-lisa@gmail.com",
+      "name": "Lisa Simpson",
+      "email": "lisa@gmail.com",
+      "role": "HR",
+      "PASSWORD": "Password1!"
+    },
+    "HR 17": {
+      "userId": "ff8c96bd",
+      "id": "ss-abraham@gmail.com",
+      "name": "Abraham Simpson",
+      "email": "abraham@gmail.com",
+      "role": "HR",
+      "PASSWORD": "Password1!"
+    },
+    "HR 18": {
+      "userId": "08b294a6",
+      "id": "ss-moe@gmail.com",
+      "name": "Moe Sislak",
+      "email": "moe@gmail.com",
+      "role": "HR",
+      "PASSWORD": "Password1!"
+    },
+    "YEDY 1": {
+      "email": "zaida@gmail.com",
+      "PASSWORD": "sesame"
+    },
+    "YEDY 2": {
+      "email": "ivan@gmail.com",
+      "PASSWORD": "sesame"
+    }
+  }
+}
